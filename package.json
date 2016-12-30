@@ -26,6 +26,7 @@
     "eslint-plugin-react": "^6.7.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.9.0",
+    "humanize-plus": "^1.8.2",
     "image-webpack-loader": "^3.0.0",
     "node-sass": "^3.13.0",
     "querystring": "^0.2.0",
